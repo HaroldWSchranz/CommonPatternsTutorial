@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{AEDD2F23-8703-4D14-A59E-69444C61E144}</ProjectGuid>
+    <ProjectGuid>{97201928-E562-4638-A94F-01AFB9598FF4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ThreadingPatterns</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
